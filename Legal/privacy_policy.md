@@ -96,4 +96,4 @@ By using EasyTk, you consent to this Privacy Policy.
 ---
 
 *This privacy policy is also available at:*
-*https://github.com/muhammadharisgift/EasyTk/blob/main/Legal/privacy_policy.md*
+*https://github.com/Mu-Haris/EasyTk/blob/main/Legal/privacy_policy.md*

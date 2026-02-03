@@ -124,4 +124,4 @@ By using EasyTk, you acknowledge that you have read, understood, and agree to be
 ---
 
 *These terms are also available at:*
-*https://github.com/muhammadharisgift/EasyTk/blob/main/Legal/terms_of_service.md*
+*https://github.com/Mu-Haris/EasyTk/blob/main/Legal/terms_of_service.md*
